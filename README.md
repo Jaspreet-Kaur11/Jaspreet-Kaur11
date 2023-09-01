@@ -15,8 +15,8 @@ I'm a passionate software engineer who loves crafting code and solving complex p
 
 📫 **Connect with Me:**
 - 📧 Email: Jaspreetkaur11xxi@gmail.com
-- 💼 LinkedIn: [Jaspreet Kaur](https://www.linkedin.com/in/Jaspreet-kaur-036a5224)
-- 📧 Twitter: https://twitter.com/Jaspreet_Kaur25
+- 💼 LinkedIn: [Jaspreet Kaur](https://www.linkedin.com/in/jaspreet-kaur-036a52224/)
+- 📧 Twitter: [Jaspreet Kaur](https://twitter.com/Jaspreet_Kaur25)
   
 
   
