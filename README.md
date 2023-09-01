@@ -1,16 +1,22 @@
-### Hi there 👋
+## 👋 Hello, I'm Jaspreet Kaur
 
-<!--
-**Jaspreet-Kaur11/Jaspreet-Kaur11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate software engineer who loves crafting code and solving complex problems. With a solid foundation in software development and a knack for detail, I bring innovation and creativity to every project.
 
-Here are some ideas to get you started:
+🚀 **Skills:** Java, Python, JavaScript, Angular, Node.js, Docker, Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌟 **Highlights:**
+- Building robust backend solutions with Spring Boot and Node.js.
+- Crafting beautiful and responsive frontends using Angular, React, and Bootstrap.
+- Docker enthusiast, creating a Docker Container Manager for fun!
+- Azure aficionado, deploying applications on virtual machines and AKS clusters.
+- Embracing Microservices Architecture for scalable applications.
+
+📝 **Tech Blog:** I love to share my technical insights and experiences on [Medium](https://medium.com/@jaspreetkaur25). Explore my writings for in-depth articles on software development, best practices, and more.
+
+📫 **Connect with Me:**
+- 📧 Email: Jaspreetkaur11xxi@gmail.com
+- 💼 LinkedIn: [Jaspreet Kaur](https://www.linkedin.com/in/Jaspreet-kaur-036a5224)
+
+  
+
+Let's code and create something amazing together! Feel free to reach out for collaboration. 😄
