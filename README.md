@@ -14,7 +14,6 @@ I'm a passionate software engineer who loves crafting code and solving complex p
 📝 **Tech Blog:** I love to share my technical insights and experiences on [Medium](https://medium.com/@jaspreetkaur25). Explore my writings for in-depth articles on software development, best practices, and more.
 
 📫 **Connect with Me:**
-- 📧 Email: Jaspreetkaur11xxi@gmail.com
 - 💼 LinkedIn: [Jaspreet Kaur](https://www.linkedin.com/in/jaspreet-kaur-036a52224/)
 - 📧 Twitter: [Jaspreet Kaur](https://twitter.com/Jaspreet_Kaur25)
   
