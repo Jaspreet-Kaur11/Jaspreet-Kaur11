@@ -11,7 +11,7 @@ I'm a passionate software engineer who loves crafting code and solving complex p
 - Azure aficionado, deploying applications on virtual machines and AKS clusters.
 - Embracing Microservices Architecture for scalable applications.
 
-📝 **Tech Blog:** I love to share my technical insights and experiences on [Medium](https://medium.com/@jaspreetkaur25). Explore my writings for in-depth articles on software development, best practices, and more.
+📝 **Tech Blog:** I love to share my technical insights and experiences on [Medium](https://medium.com/@jaspreetkaur25) and [Hashnode](https://jaspreetkaur.hashnode.dev/). Explore my writings for in-depth articles on software development, best practices, and more.
 
 📫 **Connect with Me:**
 - 💼 LinkedIn: [Jaspreet Kaur](https://www.linkedin.com/in/jaspreet-kaur-036a52224/)
